@@ -22,17 +22,17 @@ hbbtv.3sat.de
 itv.ard.de
 hbbtv.sport1.de
 
-#backend.redbutton.de
-#hbbtv-image-storage.s3-eu-west-1.amazonaws.com
-#hbbtv-apps.redbutton.de
-#rs.redtech.redbull.com
-#tvcl.redtech-de.redbull.com
+# backend.redbutton.de
+# hbbtv-image-storage.s3-eu-west-1.amazonaws.com
+# hbbtv-apps.redbutton.de
+# rs.redtech.redbull.com
+# tvcl.redtech-de.redbull.com
 
-#samsung-smarthub.discovery.indazn.com
-#public-cdn.acc.indazn.com
-#i5-img.7tv.de
+# samsung-smarthub.discovery.indazn.com
+# public-cdn.acc.indazn.com
+# i5-img.7tv.de
 
 s.prd.ott.s.joyn.de
 
-#app.tvnow.rtl-hbbtv.de
-#vox-digitaltext.rtl-hbbtv.de
+# app.tvnow.rtl-hbbtv.de
+# vox-digitaltext.rtl-hbbtv.de
